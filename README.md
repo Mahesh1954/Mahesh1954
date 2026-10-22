@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="250" src="./github/65efzo.gif"  />
+<img data-importer="image" align="right" height="350" src="/home/mahesh/Desktop/GIT_PROJECT/Mahesh1954/.github/.asset/65efzo.gif"  />
 
 ###
 
